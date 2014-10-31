@@ -116,7 +116,7 @@
 		
 	/* Header */
 		header.primary{background-color:#F1F2F2;padding:25px 0;}
-		header.primary h1{background: url('../images/props/logo.png') no-repeat scroll top left;height: 82px;margin:0;text-indent:-10000px;width: 259px;}
+		header.primary h1{background: url('../images/props/logo.png') no-repeat scroll top left;height: 110px;margin:0;text-indent:-10000px;width: 360px;}
 		header.primary h1 a{display:block;height:100%;}
 		header.primary .span4.bottom{margin-top:58px}
 		
