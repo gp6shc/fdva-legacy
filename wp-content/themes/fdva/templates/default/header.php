@@ -2,7 +2,7 @@
 	<div class="wrapper">
 		<div class="row">
 			<div class="span8">
-				<h1><a href="/">FDVA - Florida Department of Veterans' Affairs</a></h1>
+				<h1><a href="/fdva-legacy"></a></h1>
 			</div>
 			<div class="span4 bottom">
 				<?php get_search_form(); ?>
